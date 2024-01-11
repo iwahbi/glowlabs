@@ -7,7 +7,7 @@ app.set('views', './views');
 
 var con = mysql.createConnection({
   host: "localhost",
-  user: "id19322426_rubangura",
+  user: "id19322426_wahbi",
   password: "Pleasework1!",
   database: "id19322426_alarmsystem"
 });
